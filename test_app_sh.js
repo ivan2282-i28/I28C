@@ -1,4 +1,4 @@
 export const cmds: {
-  main: () => "This will show if you exec 'test' "
-  test: () => "This will show if you exec 'test test'"
+  'idkas': () => "Console cleared"
+  // test: () => "This will show if you exec 'test test'"
 }
